@@ -1,0 +1,16 @@
+verifica disponibilidade da esteira
+insere na esteira
+
+verifica disponibilidade do classificador
+retira da esteira
+ocupa classificador
+
+verifica disponibilidade da pilha 
+desocupa classificador
+insere na pilha
+
+verifica disponibilidade do embalador
+ocupa embalador
+retira da pilha
+
+desocupa embalador
